@@ -1,8 +1,8 @@
 # Customer Churn Analysis using Machine Learning
 
 ## Intern Details
-- **Intern ID:** YOUR_INTERN_ID
-- **Full Name:** Priyadarshini
+- **Intern ID:** CITS6291
+- **Full Name:** S.PRIYADARSHINI
 - **No. of Weeks:** 4 Weeks
 - **Project Name:** Customer Churn Analysis using Machine Learning
 - **Project Scope:** This project predicts whether a customer is likely to leave a service (churn) using Machine Learning. The dataset was preprocessed, categorical features were encoded, and a Logistic Regression model was trained to classify customers as churn or non-churn.
